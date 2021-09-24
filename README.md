@@ -1,6 +1,6 @@
 # Graphing Excercise
 
-*This project is a visualization for Data Gathered on Digital Divide around interent access and relevant gender gap. The name operation fitula is adopted from the source of information as well as the below image relevant to the project.*
+*This project is a visualization for Data Gathered on Digital Divide around interent access and relevant gender gap. The name operation fistula is copied from the source of information as well as the below image relevant to the project.*
 
 Data Source is: https://data.world/makeovermonday/2020w44
 
