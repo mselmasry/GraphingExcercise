@@ -11,3 +11,7 @@ Source: https://data.world/makeovermonday/2020w44
 ![DigDivMeans.png](https://drive.google.com/uc?export=view&id=1-GSAmiIoLWTEiPcDc0rdBxLXjcyw_-is)
 
 ![AboveAndBelow.png](https://drive.google.com/uc?export=view&id=1DyXkxRue7y9Ad4ULTjWETi27OPYwpidp)
+
+While there is still work to do in terms of Household Access to Internet and Bridging the Gender Gaps for both Internet and Mobile Access, Overall things seem to be going in the right direction as the graph above shows:
+- The number of countries where %Households with Internet is Below Average is less than those Above
+- The number of countries where the Gender Gaps for both Internet and Mobile Access is Above Average is lower than those where it's Below Average
