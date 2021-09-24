@@ -9,3 +9,5 @@ Data Source is: https://data.world/makeovermonday/2020w44
 Source: https://data.world/makeovermonday/2020w44
 
 ![DigDivMeans.png](https://drive.google.com/uc?export=view&id=1-GSAmiIoLWTEiPcDc0rdBxLXjcyw_-is)
+
+![AboveAndBelow.png](https://drive.google.com/uc?export=view&id=1DyXkxRue7y9Ad4ULTjWETi27OPYwpidp)
